@@ -1,0 +1,9 @@
+ [requires]
+ OpenSSL/1.1.1c@conan/stable
+
+ boost/1.69.0@conan/stable
+ websocketpp/0.8.1@bincrafters/stable
+
+
+ [generators]
+ visual_studio
